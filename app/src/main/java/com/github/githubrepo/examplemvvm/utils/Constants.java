@@ -3,7 +3,7 @@ package com.github.githubrepo.examplemvvm.utils;
 import java.util.HashMap;
 
 public class Constants {
-    public static String gitHuKey="Bearer b50b0f88db146725d86d853e76afe80a9074fa2a";
+    public static String gitHuKey="Bearer 20e3782fe919790ea3df64a67ef69ccafbff5be8";
     public static String gitHubAgent="PostmanRuntime/7.26.1";
     public static String gitHubAccept="*/*";
     public static String authorization="Authorization";
