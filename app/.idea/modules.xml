@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/765424485/VymoMvvm.iml" filepath="$PROJECT_DIR$/.idea/modules/765424485/VymoMvvm.iml" group="VymoMvvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="VymoMvvm/app" />
+    </modules>
+  </component>
+</project>
